@@ -115,23 +115,23 @@ The project generates and saves the following charts:
 ## Project Structure
 
 ```
-Netflix-Data-Analysis/
+netflix-data-analysis/
 │
 ├── netflix/
-│   ├── netflix_data.csv
 │   ├── Missing.png
 │   ├── content_year.png
 │   ├── genre.png
 │   ├── movie_add.png
 │   ├── movie_distribution.png
+|   ├── netflix_data.csv
 │   ├── ratings.png
 │   ├── show_distribution.png
 │   ├── topcountry.png
 │   ├── topdirector.png
 │   └── type_compare.png
 │
-├── netflix_analysis.py
-└── README.md
+├── Readme.md
+└── netflix_analysis.py
 ```
 
 ---

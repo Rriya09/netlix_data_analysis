@@ -112,6 +112,19 @@ The project generates and saves the following charts:
 
 ---
 
+## Key Insights
+
+- Movies make up the majority of Netflix's catalog compared to TV Shows.
+- The United States contributes the highest number of titles on Netflix.
+- TV-MA and TV-14 are among the most common content ratings.
+- International Movies and Drama-related categories are among the most popular genres.
+- Netflix experienced significant growth in content additions during the late 2010s.
+- Content additions are not evenly distributed throughout the year; some months see noticeably more additions than others.
+- Most movies fall within a common runtime range, while only a few have exceptionally long durations.
+- A small number of directors and actors appear repeatedly across many Netflix titles.
+- Missing values are concentrated in metadata fields such as Director, Cast, and Country.
+
+
 ## Project Structure
 
 ```
